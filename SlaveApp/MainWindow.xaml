@@ -1,0 +1,26 @@
+﻿<Window x:Class="SlaveApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Slave" Height="300" Width="500">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,8">
+            <TextBlock Text="Master host:" VerticalAlignment="Center"/>
+            <TextBox x:Name="HostText" Width="120" Margin="6,0" Text="127.0.0.1"/>
+            <TextBlock Text="Port:" VerticalAlignment="Center"/>
+            <TextBox x:Name="PortText" Width="80" Margin="6,0" Text="6000"/>
+            <Button Content="Connect" Click="ConnectBtn_Click" Margin="6,0"/>
+            <Button Content="Disconnect" Click="DisconnectBtn_Click" Margin="6,0"/>
+        </StackPanel>
+
+        <GroupBox Header="Log" Grid.Row="1">
+            <StackPanel>
+                <TextBox x:Name="LogBox" Height="180" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" AcceptsReturn="True"/>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>

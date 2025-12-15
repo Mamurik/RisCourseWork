@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\clientapp\\clientdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\clientdiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\clientapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\clientapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\slaveapp\\core\\masterconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|solutionrelative:slaveapp\\core\\masterconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\masterapp\\core\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|solutionrelative:masterapp\\core\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\masterapp\\core\\slavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|solutionrelative:masterapp\\core\\slavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\masterapp\\core\\slaveinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|solutionrelative:masterapp\\core\\slaveinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\masterapp\\core\\masterlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|solutionrelative:masterapp\\core\\masterlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\masterapp\\core\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|solutionrelative:masterapp\\core\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\clientapp\\core\\masterclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\core\\masterclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC67DE1F-391B-426A-93B8-648079D9FDF2}|SharedModels\\SharedModels.csproj|c:\\users\\lexa\\desktop\\courseworkris\\sharedmodels\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC67DE1F-391B-426A-93B8-648079D9FDF2}|SharedModels\\SharedModels.csproj|solutionrelative:sharedmodels\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\slaveapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|solutionrelative:slaveapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\slaveapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|solutionrelative:slaveapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\slaveapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|solutionrelative:slaveapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\masterapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|solutionrelative:masterapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\masterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|solutionrelative:masterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12739CFE-DB48-4A95-8DCB-DED60ED3740A}|Testss\\Testss.csproj|c:\\users\\lexa\\desktop\\courseworkris\\testss\\testss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12739CFE-DB48-4A95-8DCB-DED60ED3740A}|Testss\\Testss.csproj|solutionrelative:testss\\testss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\slaveapp\\slavediagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|solutionrelative:slaveapp\\slavediagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\masterapp\\masterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FE2CBA3-9EEB-4579-9D31-D449CB3568FF}|MasterApp\\MasterApp.csproj|solutionrelative:masterapp\\masterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\slaveapp\\slaveapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B7DA5CB-0F2D-43C8-8D9A-B456DAB7EFF5}|SlaveApp\\SlaveApp.csproj|solutionrelative:slaveapp\\slaveapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|c:\\users\\lexa\\desktop\\courseworkris\\clientapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235665C-2735-4D5F-A562-F9BCA1359A87}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\ClientDiagram.cd",
+              "RelativeDocumentMoniker": "ClientApp\\ClientDiagram.cd",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\ClientDiagram.cd",
+              "RelativeToolTip": "ClientApp\\ClientDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-12-11T17:40:17.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SharedModels\\Models.cs",
+              "RelativeDocumentMoniker": "SharedModels\\Models.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SharedModels\\Models.cs",
+              "RelativeToolTip": "SharedModels\\Models.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T07:40:13.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\App.xaml",
+              "RelativeDocumentMoniker": "SlaveApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\App.xaml",
+              "RelativeToolTip": "SlaveApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-11T07:38:30.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MasterApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\MainWindow.xaml",
+              "RelativeToolTip": "MasterApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-11T07:38:16.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Testss.csproj",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRIS\\Testss\\Testss.csproj",
+              "RelativeDocumentMoniker": "Testss\\Testss.csproj",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRIS\\Testss\\Testss.csproj",
+              "RelativeToolTip": "Testss\\Testss.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T09:04:52.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MasterApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRIS\\MasterApp\\MasterApp.csproj",
+              "RelativeDocumentMoniker": "MasterApp\\MasterApp.csproj",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRIS\\MasterApp\\MasterApp.csproj",
+              "RelativeToolTip": "MasterApp\\MasterApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T09:04:50.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SlaveApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRIS\\SlaveApp\\SlaveApp.csproj",
+              "RelativeDocumentMoniker": "SlaveApp\\SlaveApp.csproj",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRIS\\SlaveApp\\SlaveApp.csproj",
+              "RelativeToolTip": "SlaveApp\\SlaveApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T09:04:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MasterClient.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\Core\\MasterClient.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Core\\MasterClient.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\Core\\MasterClient.cs",
+              "RelativeToolTip": "ClientApp\\Core\\MasterClient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:44:44.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SlaveDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\SlaveDiagram.cd",
+              "RelativeDocumentMoniker": "SlaveApp\\SlaveDiagram.cd",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\SlaveDiagram.cd",
+              "RelativeToolTip": "SlaveApp\\SlaveDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-11-19T11:04:19.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "MasterApp\\core\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\ClientHandler.cs",
+              "RelativeToolTip": "MasterApp\\core\\ClientHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:54:28.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\TextProcessor.cs",
+              "RelativeDocumentMoniker": "MasterApp\\core\\TextProcessor.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\TextProcessor.cs",
+              "RelativeToolTip": "MasterApp\\core\\TextProcessor.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:54:12.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SlaveInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\SlaveInfo.cs",
+              "RelativeDocumentMoniker": "MasterApp\\core\\SlaveInfo.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\SlaveInfo.cs",
+              "RelativeToolTip": "MasterApp\\core\\SlaveInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:53:35.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\SlaveManager.cs",
+              "RelativeDocumentMoniker": "MasterApp\\core\\SlaveManager.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\SlaveManager.cs",
+              "RelativeToolTip": "MasterApp\\core\\SlaveManager.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:53:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MasterApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MasterApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswH0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:40:46.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\Core\\MasterConnector.cs",
+              "RelativeDocumentMoniker": "SlaveApp\\Core\\MasterConnector.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\Core\\MasterConnector.cs",
+              "RelativeToolTip": "SlaveApp\\Core\\MasterConnector.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:43:48.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MasterListener.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\MasterListener.cs",
+              "RelativeDocumentMoniker": "MasterApp\\core\\MasterListener.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\MasterApp\\core\\MasterListener.cs",
+              "RelativeToolTip": "MasterApp\\core\\MasterListener.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswD0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T11:54:42.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SlaveApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SlaveApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:45:53.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClientApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClientApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwKwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:46:16.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ClientApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "ClientApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:40:43.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClientApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\ClientApp\\MainWindow.xaml",
+              "RelativeToolTip": "ClientApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-16T07:46:15.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SlaveApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lexa\\Desktop\\CourseWorkRis\\SlaveApp\\MainWindow.xaml",
+              "RelativeToolTip": "SlaveApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-16T07:45:51.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

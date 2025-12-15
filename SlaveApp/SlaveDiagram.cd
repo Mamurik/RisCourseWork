@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SlaveApp.Core.MasterConnector">
+    <Position X="13" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAEAABAAAAABAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Core\MasterConnector.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_client" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SlaveApp.MainWindow">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAIAgAAAoAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_masterConnector" />
+      <Field Name="_cts" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SharedModels.ClientRequest">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Models.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharedModels.TaskMessage">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharedModels.ResultMessage">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharedModels.FinalResult">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Models.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Net.Sockets.TcpClient" Collapsed="true">
+    <Position X="15.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Threading.CancellationTokenSource" Collapsed="true">
+    <Position X="15.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

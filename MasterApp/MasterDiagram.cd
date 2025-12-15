@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MasterApp.core.ClientHandler">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAEAAAAAAAAAAAgAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>core\ClientHandler.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_textProcessor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MasterApp.core.MasterListener">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQQAAAAACJCAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>core\MasterListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterApp.core.SlaveInfo">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>core\SlaveInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterApp.core.SlaveManager">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQQAAAAAAAQAAEAAAAAAABAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>core\SlaveManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterApp.core.TextProcessor">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIAAAAAAAAAAABAAAAABAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>core\TextProcessor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_slaveManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SharedModels.ClientRequest">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Models.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharedModels.TaskMessage">
+    <Position X="12.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharedModels.ResultMessage">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharedModels.FinalResult">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Models.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasterApp.MainWindow">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAIAAAAAAAAAAAAAAAAAgAAwoAAAAAwAAAECAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_slaveListener" />
+      <Field Name="_slaveManager" />
+      <Field Name="_textProcessor" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

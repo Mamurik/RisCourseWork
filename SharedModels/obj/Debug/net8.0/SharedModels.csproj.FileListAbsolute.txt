@@ -1,0 +1,11 @@
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\bin\Debug\net8.0\SharedModels.deps.json
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\bin\Debug\net8.0\SharedModels.dll
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\bin\Debug\net8.0\SharedModels.pdb
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\obj\Debug\net8.0\SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\obj\Debug\net8.0\SharedModels.AssemblyInfoInputs.cache
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\obj\Debug\net8.0\SharedModels.AssemblyInfo.cs
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\obj\Debug\net8.0\SharedModels.csproj.CoreCompileInputs.cache
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\obj\Debug\net8.0\SharedModels.dll
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\obj\Debug\net8.0\refint\SharedModels.dll
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\obj\Debug\net8.0\SharedModels.pdb
+C:\Users\Lexa\Desktop\CourseWorkRis\SharedModels\obj\Debug\net8.0\ref\SharedModels.dll
